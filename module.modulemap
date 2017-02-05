@@ -1,4 +1,5 @@
 module CGrovepi [system] {
   header "grovepi.h"
+  link "grovepi"
   export *
 }
